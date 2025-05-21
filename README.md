@@ -32,5 +32,21 @@ Este proyecto es una aplicación de escritorio desarrollada en Java utilizando S
 El sistema implementa almacenamiento de contraseñas en formato hash, evitando guardar contraseñas 
 en texto plano, lo cual mejora la seguridad del sistema frente a accesos no autorizados.
 
+## Capturas de pantalla
+## Capturas de pantalla
+
+### Login
+![Login](screen/Login.jpeg)
+
+### Gestión de Clientes
+![Clientes](screen/clientes.jpeg)
+
+### Gestión de Productos
+![Productos](screen/productos.jpeg)
+
+### Registro de Venta
+![Venta](screen/venta.jpeg)
+
+
 Autor
 Eulices Morales — @EulicesMorales
