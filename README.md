@@ -36,16 +36,16 @@ en texto plano, lo cual mejora la seguridad del sistema frente a accesos no auto
 ## Capturas de pantalla
 
 ### Login
-![Login](screen/Login.jpeg)
+![Login](src/screen/Login.jpeg)
 
 ### Gestión de Clientes
-![Clientes](screen/clientes.jpeg)
+![Clientes](src/screen/clientes.jpeg)
 
 ### Gestión de Productos
-![Productos](screen/productos.jpeg)
+![Productos](src/screen/productos.jpeg)
 
 ### Registro de Venta
-![Venta](screen/venta.jpeg)
+![Venta](src/screen/venta.jpeg)
 
 
 Autor
